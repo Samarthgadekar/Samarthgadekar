@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Samarth Vijay Gadekar</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img aling="right" alt="coding"width="400"scr="![pixels-neon](https://github.com/Samarthgadekar/Samarthgadekar/assets/140057423/dced22fa-edf5-4d7a-a26c-e7d45f6b1b92)">
+<img aling="right" alt="coding"width="400"scr="https://github.com/Samarthgadekar/Samarthgadekar/blob/main/pixels-neon.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthgadekar&label=Profile%20views&color=0e75b6&style=flat" alt="samarthgadekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarthgadekar" alt="samarthgadekar" /></a> </p>
 
-- 🌱 I’m currently learning *DSA*
+- 🌱 I’m currently learning DSA
 
-- 💬 Ask me about *DSA*
+- 💬 Ask me about DSA
 
-- 📫 How to reach me *samarthgadekar073@gmail.com*
+- 📫 How to reach me samarthgadekar073@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
