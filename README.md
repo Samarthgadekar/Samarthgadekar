@@ -1,7 +1,7 @@
 ![logo](https://github.com/Samarthgadekar/Samarthgadekar/blob/main/20231127_160637_0000.png)
 <h1 align="center">Hi 👋, I'm Samarth Vijay Gadekar</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img aling="right" alt="coding"width="400"scr="https://github.com/Samarthgadekar/Samarthgadekar/blob/main/pixels-neon.gif">
+<img height="20%"  align="centre" src="https://github.com/Samarthgadekar/Samarthgadekar/blob/main/pixels-neon.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthgadekar&label=Profile%20views&color=0e75b6&style=flat" alt="samarthgadekar" /> </p>
